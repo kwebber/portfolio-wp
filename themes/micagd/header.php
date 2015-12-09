@@ -30,7 +30,7 @@
 		    <header class="container">
 		        <div class="row">
 		                <div class="twelve columns">
-		                        <a href="/" class="home-link"><span class="logo">Kelly Webber</span></a><span class="sub-logo"><em>Graphic Design</em></span>
+		                        <a href="/" class="home-link"><span class="logo"><?php bloginfo('name'); ?></span></a><span class="sub-logo"><em>Graphic Design</em></span>
 		                    <nav class="u-pull-right">
 		                        <div class="nav-toggle u-pull-right"><i class="nav-toggle icon icon-bars" id="js-nav-toggle"></i></div>
 		                        <ul class="nav" id="js-nav-menu" style="background-color: white; padding-left: 10px;">
