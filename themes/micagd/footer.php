@@ -15,7 +15,7 @@
 <?php /* wp_nav_menu( $socialArgs ); */ ?>
 <?php /* wp_nav_menu( $departmentArgs ); */ ?>
 
-    <div class="footer-section">
+    <div class="footer-section page-row">
         <footer class="container">
             <div class="row">
                 <div class="twelve columns bottom-line">

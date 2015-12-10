@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="content-section page-row-expanded">
+<div class="content-section page-row page-row-expanded">
 	<div class="container">
 		<h2>Big Hero Image Here</h2>
 
