@@ -19,6 +19,7 @@
 	    <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/styles/vendor/jquery.bxslider.css" />
 	    <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/styles/vendor/skeleton.css">
 	    <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/styles/vendor/skeleton-styles.css">
+	    <script src="https://use.fonticons.com/e8e95619.js"></script>
 	    <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/styles/main.css">
 
 	</head>
