@@ -34,11 +34,14 @@
 		                        <a href="/" class="home-link"><span class="logo"><?php bloginfo('name'); ?></span></a><span class="sub-logo"><em>Graphic Design</em></span>
 		                    <nav class="u-pull-right">
 		                        <div class="nav-toggle u-pull-right"><i class="nav-toggle icon icon-bars" id="js-nav-toggle"></i></div>
-		                        <ul class="nav" id="js-nav-menu" style="background-color: white; padding-left: 10px;">
+		                        <?php wp_nav_menu( array( 
+ 									'menu_class' => 'nav',
+ 									'menu_id' => 'js-nav-menu' ) ); ?>
+		                        <!-- <ul class="nav" id="js-nav-menu" style="background-color: white; padding-left: 10px;">
 		                          <li><a href="about.html">About</a></li>
 		                          <li><a href="index.html">Portfolio</a></li>
 		                          <li><a href="resume.html">Resume</a></li>
-		                        </ul>
+		                        </ul> -->
 		                    </nav>
 
 		                </div>
